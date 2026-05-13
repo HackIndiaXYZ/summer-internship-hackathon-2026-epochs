@@ -1,13 +1,15 @@
-# SkillBridge AI 🎓💼✨
+# SkillBridge AI - EPOCHS Hackathon Submission
+Hackathon team repository for EPOCHS - [hackindia-team:summer-internship-hackathon-2026:epochs]
+
 ### State-of-the-Art Adaptive Learning & Professional Talent Matching Platform
 
 SkillBridge is an advanced, enterprise-grade full-stack adaptive study intelligence and corporate recruitment platform. Designed with high-performance aesthetics, it provides students with AI-generated study paths, personalized quizzes, and portfolio indexing. Simultaneously, it empowers corporate recruiters with dynamic candidate search rosters, AI-powered resume analyzers, and real-time handshake connection requests.
 
-## 🔗 Demo
+## Live Demo
 [Live Demo](https://skillbridge-uoag.onrender.com/)
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is built as a cleanly decoupled, production-ready full-stack workspace:
 
@@ -34,33 +36,33 @@ SkillBridge/
 
 ---
 
-## ⚡ Main Technical Features
+## Main Technical Features
 
-### 1. Dual-Role Authentication & Security Guards 🛡️
+### 1. Dual-Role Authentication & Security Guards
 * **Smart Signup Router:** Interactive signup selector lets users enroll as a **Student** or **Corporate Recruiter**. During recruiter registration, it captures enterprise details like Company Name.
 * **Layout Security Guards:** Role-based redirection is built directly into parent Next.js layouts (`/dashboard/layout.tsx` and `/company-dashboard/layout.tsx`). If a recruiter lands on a student page, they are instantly redirected back to their corporate dashboard, and vice-versa, with zero content flickering.
 
-### 2. Recruiter Student Discovery & Handshakes 🤝
+### 2. Recruiter Student Discovery & Handshakes
 * **High-Readiness Rosters:** Renders student scholars ordered dynamically by their Job Readiness indices and Achievements scores in Firestore.
 * **Fuzzy Filtering:** Text-search queries filter students on-the-fly client-side by full name or specific competencies.
 * **Integrated Handshake Modals:** Recruiters can send personalized connection requests. This writes a pending invitation document in the main `connections` collection.
 * **Real-time Handshake Notifications:** Students instantly receive a visual notification badge in their header. Under `/dashboard/notifications`, they can view recruiter messages and click **Accept Invitation** or **Decline**, which syncs back to the database in real-time.
 
-### 3. Active Resume Metrics Syncer & AI Parser 📄
+### 3. Active Resume Metrics Syncer & AI Parser
 * **Student Upload Portal:** On their profile, students can select or drop `.pdf`, `.doc`, or `.docx` resume files.
 * **AI Parser Simulation:** Shows a gorgeous, step-by-step progress animation simulating semantic parsing on our AI engine. The file metadata is persisted directly to their Firestore profile.
 * **Recruiter Resume Viewer:** Recruiters can click **View Synced Resume** on any student card to open a custom visualizer modal summarizing the candidate's education, matched skills, and an active PDF download link.
 
-### 4. 100% Mobile Responsive Fluid Layouts 📱
+### 4. 100% Mobile Responsive Fluid Layouts
 * **Slide-Out Sidebars:** Sidebars automatically compress into hidden layouts and slide smoothly into view with custom gestures or hamburger taps on mobile viewports.
 * **Backdrop Dimming:** Opening menus on tablets or mobile phones displays a blurred backdrop shadow (`backdrop-blur-sm bg-slate-950/60`). Tapping anywhere outside the menu slides it back out of view.
 * **Fluid Padding grids:** Grid content areas scale dynamically from phone screens (`p-4`) up to widescreen monitors (`p-8`).
 
 ---
 
-## 🛠️ Installation & Local Setup
+## Installation & Local Setup
 
-### 📥 Prerequisites & Secrets Configuration
+### Prerequisites & Secrets Configuration
 
 Create a `.env` file inside the `/backend` directory:
 ```env
@@ -77,11 +79,11 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 
 ---
 
-### 🚀 Running the Full-Stack Workspace
+### Running the Full-Stack Workspace
 
 Launch both layers in separate terminal instances:
 
-#### 1. Start the Express Gateway (Backend) 📡
+#### 1. Start the Express Gateway (Backend)
 ```bash
 # Navigate to the backend directory
 cd backend
@@ -94,7 +96,7 @@ npm run dev
 ```
 *The API gateway will listen on: **`http://localhost:5000`***
 
-#### 2. Start the React/Next.js Client (Frontend) 🎨
+#### 2. Start the React/Next.js Client (Frontend)
 ```bash
 # Navigate to the frontend directory
 cd frontend
@@ -109,7 +111,7 @@ npm run dev
 
 ---
 
-## 🛡️ Compilation, Quality, & Type-Safety
+## Compilation, Quality, & Type-Safety
 
 To run static builds and confirm strict compilation with zero TypeScript errors:
 ```bash
