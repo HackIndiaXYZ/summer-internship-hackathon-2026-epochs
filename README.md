@@ -241,11 +241,4 @@ npx tsc --noEmit
 ```
 Both layers are guaranteed to compile with **`exit-code 0`**!
 
-##Overview
-<img width="1916" height="902" alt="Screenshot 2026-05-13 213304" src="https://github.com/user-attachments/assets/2989d024-5e55-48d6-8aa9-6863934a0c3e" />
-<img width="1919" height="914" alt="Screenshot 2026-05-13 213313" src="https://github.com/user-attachments/assets/3775e40d-29eb-46e2-9731-5bc6712bed0d" />
-<img width="1906" height="907" alt="Screenshot 2026-05-13 213350" src="https://github.com/user-attachments/assets/82f4c677-a686-4034-80b6-792b00b23e3e" />
-<img width="1911" height="893" alt="Screenshot 2026-05-13 213408" src="https://github.com/user-attachments/assets/a9d36f61-bb16-4e09-aeca-79dc83032c7f" />
-<img width="1919" height="896" alt="Screenshot 2026-05-13 213718" src="https://github.com/user-attachments/assets/896a76cf-de8d-46b6-83f6-e59661837949" />
-<img width="1919" height="896" alt="Screenshot 2026-05-13 213718" src="https://github.com/user-attachments/assets/00840646-df5a-4b4d-b608-ad850a27f488" />
-<img width="1919" height="902" alt="Screenshot 2026-05-13 213752" src="https://github.com/user-attachments/assets/facf916f-2678-4826-a46f-c23a8aaf8975" />
+SkillBridge: Because finding the right talent shouldn't be a guessing game, and building your career shouldn't be a solo journey.
