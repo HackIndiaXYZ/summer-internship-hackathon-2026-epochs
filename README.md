@@ -5,10 +5,115 @@ Hackathon team repository for EPOCHS - [hackindia-team:summer-internship-hackath
 
 SkillBridge is an advanced, enterprise-grade full-stack adaptive study intelligence and corporate recruitment platform. Designed with high-performance aesthetics, it provides students with AI-generated study paths, personalized quizzes, and portfolio indexing. Simultaneously, it empowers corporate recruiters with dynamic candidate search rosters, AI-powered resume analyzers, and real-time handshake connection requests.
 
-## Live Demo
+
 [Live Demo](https://skillbridge-uoag.onrender.com/)
 ---
+Student Dashboard,Analytics & Readiness
+,
+Recruiter Discovery Pool,Resume Intelligence Parser
+,
+Connection Requests,Platform Modals
+,
 
+The platform helps students:
+- Identify weak topics
+- Improve skills with AI-generated learning paths
+- Track progress through analytics dashboards
+- Build stronger resumes
+
+At the same time, companies can:
+- Discover job-ready students
+- Analyze resumes intelligently
+- Filter candidates based on skills
+- Connect with suitable talent directly
+
+SkillBridge combines:
+- AI learning assistance
+- Smart analytics
+- Resume intelligence
+- Recruiter-student networking
+
+into one integrated ecosystem.
+Problem Statement
+
+## Problems Faced by Students
+- Lack of personalized learning guidance
+- Difficulty identifying skill gaps
+- Limited industry exposure
+- Weak resume visibility
+- No centralized growth tracking
+
+## Problems Faced by Recruiters
+- Difficulty finding skilled candidates
+- Time-consuming resume screening
+- Lack of practical skill insights
+- Poor student-company interaction systems
+
+## Our Solution
+
+SkillBridge AI solves these challenges by providing:
+- AI-generated adaptive study paths
+- Skill-gap analysis dashboards
+- AI resume parsing system
+- Smart recruiter-candidate matching
+- Real-time recruiter-student interaction
+
+---
+
+# ✨Core  Features
+
+---
+
+## 🎯 Student Features
+
+### 📚 AI Study Planner
+- Personalized study recommendations
+- AI-generated learning roadmap
+- Adaptive topic suggestions
+
+### 🧠 AI Quiz Generator
+- Dynamic quiz generation
+- Topic-based assessments
+- Weak-area detection
+
+### 📊 Performance Dashboard
+- Weekly progress tracking
+- Readiness score visualization
+- Topic completion monitoring
+- Achievement analytics
+
+### 📄 Resume Intelligence
+- Resume upload system
+- AI-based resume parsing
+- Skill extraction
+- Resume visualization
+
+### 🔔 Notification System
+- Real-time recruiter invitations
+- Connection request updates
+- Instant notification badges
+
+---
+
+## 🏢 Recruiter Features
+
+### 🔍 Student Discovery System
+- Search students by skills
+- Readiness score filtering
+- Achievement-based ranking
+
+### 🤝 Recruiter Handshakes
+- Send direct invitations
+- Personalized recruiter messages
+- Real-time student interaction
+
+### 📑 Resume Viewer
+- Resume preview modal
+- Candidate skill summary
+- PDF download support
+
+---
+---
 ## Repository Structure
 
 The repository is built as a cleanly decoupled, production-ready full-stack workspace:
@@ -59,6 +164,8 @@ SkillBridge/
 * **Fluid Padding grids:** Grid content areas scale dynamically from phone screens (`p-4`) up to widescreen monitors (`p-8`).
 
 ---
+
+
 
 ## Installation & Local Setup
 
@@ -119,3 +226,12 @@ cd frontend
 npx tsc --noEmit
 ```
 Both layers are guaranteed to compile with **`exit-code 0`**!
+
+##Overview
+<img width="1916" height="902" alt="Screenshot 2026-05-13 213304" src="https://github.com/user-attachments/assets/2989d024-5e55-48d6-8aa9-6863934a0c3e" />
+<img width="1919" height="914" alt="Screenshot 2026-05-13 213313" src="https://github.com/user-attachments/assets/3775e40d-29eb-46e2-9731-5bc6712bed0d" />
+<img width="1906" height="907" alt="Screenshot 2026-05-13 213350" src="https://github.com/user-attachments/assets/82f4c677-a686-4034-80b6-792b00b23e3e" />
+<img width="1911" height="893" alt="Screenshot 2026-05-13 213408" src="https://github.com/user-attachments/assets/a9d36f61-bb16-4e09-aeca-79dc83032c7f" />
+<img width="1919" height="896" alt="Screenshot 2026-05-13 213718" src="https://github.com/user-attachments/assets/896a76cf-de8d-46b6-83f6-e59661837949" />
+<img width="1919" height="896" alt="Screenshot 2026-05-13 213718" src="https://github.com/user-attachments/assets/00840646-df5a-4b4d-b608-ad850a27f488" />
+<img width="1919" height="902" alt="Screenshot 2026-05-13 213752" src="https://github.com/user-attachments/assets/facf916f-2678-4826-a46f-c23a8aaf8975" />
