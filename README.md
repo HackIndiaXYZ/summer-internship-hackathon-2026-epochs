@@ -8,12 +8,16 @@ SkillBridge is an advanced, enterprise-grade full-stack adaptive study intellige
 
 [Live Demo](https://skillbridge-uoag.onrender.com/)
 ---
-Student Dashboard,Analytics & Readiness
-,
-Recruiter Discovery Pool,Resume Intelligence Parser
-,
-Connection Requests,Platform Modals
-,
+## 📸 Platform Preview
+
+| Feature | Description | Preview |
+| :--- | :--- | :---: |
+| **Student Dashboard** | Centralized hub for learning paths and progress tracking. | ![Dashboard](https://via.placeholder.com/150) |
+| **Analytics & Readiness** | Visual insights into skill gaps and hackathon readiness. | ![Analytics](https://via.placeholder.com/150) |
+| **Recruiter Discovery Pool** | A dynamic talent roster for corporate partner matching. | ![Discovery](https://via.placeholder.com/150) |
+| **Resume Intelligence** | AI-powered parsing to highlight candidate strengths. | ![Resume](https://via.placeholder.com/150) |
+| **Connection Requests** | Real-time "handshake" networking between students and HR. | ![Networking](https://via.placeholder.com/150) |
+| **Platform Modals** | High-performance UI components for seamless interaction. | ![Modals](https://via.placeholder.com/150) |
 
 The platform helps students:
 - Identify weak topics
@@ -114,6 +118,10 @@ SkillBridge AI solves these challenges by providing:
 
 ---
 ---
+
+##Architecture 
+<img width="1536" height="1024" alt="WhatsApp Image 2026-05-13 at 9 07 49 PM" src="https://github.com/user-attachments/assets/1cf65f71-bbb8-4f4b-8537-151d96f8483f" />
+
 ## Repository Structure
 
 The repository is built as a cleanly decoupled, production-ready full-stack workspace:
