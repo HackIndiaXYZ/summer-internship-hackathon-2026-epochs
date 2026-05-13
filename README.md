@@ -18,16 +18,12 @@ SkillBridge is an advanced, enterprise-grade full-stack adaptive study intellige
 
 | Feature | Description | Preview |
 | :--- | :--- | :--- |
-| **Student Dashboard** | Centralized hub for learning paths and progress tracking. | <img src="https://github.com/user-attachments/assets/2989d024-5e55-48d6-8aa9-6863934a0c3e" width="300" /> |
-| **Analytics & Readiness** | Visual insights into skill gaps and hackathon readiness. | <img width="2879" height="1535" alt="image" src="https://github.com/user-attachments/assets/139da773-20c8-4501-813c-7b0c03f2453b" />
- |
-| **Recruiter Discovery Pool** | A dynamic talent roster for corporate partner matching. | <img width="2879" height="1533" alt="image" src="https://github.com/user-attachments/assets/c099257d-23d3-4859-a2c0-17712864509a" />
- |
-| **Resume Intelligence** | AI-powered parsing to highlight candidate strengths. | <img width="2802" height="1479" alt="image" src="https://github.com/user-attachments/assets/adabcc4d-b586-47dd-b99b-a205505c2a1c" />
- |
-| **Connection Requests** | Real-time "handshake" networking between students and HR. | <img width="2879" height="1505" alt="image" src="https://github.com/user-attachments/assets/47b3ca22-6f88-447b-a2e5-117d671f987f" />
- |
-| **Platform Modals** | High-performance UI components for seamless interaction. | <img src="https://github.com/user-attachments/assets/facf916f-2678-4826-a46f-c23a8aaf8975" width="300" /> |
+| **Student Dashboard** | Centralized hub for learning paths and progress tracking. | <img src="https://github.com/user-attachments/assets/2989d024-5e55-48d6-8aa9-6863934a0c3e" width="400" /> |
+| **Analytics & Readiness** | Visual insights into skill gaps and hackathon readiness. | <img src="https://github.com/user-attachments/assets/139da773-20c8-4501-813c-7b0c03f2453b" width="400" /> |
+| **Recruiter Discovery Pool** | A dynamic talent roster for corporate partner matching. | <img src="https://github.com/user-attachments/assets/c099257d-23d3-4859-a2c0-17712864509a" width="400" /> |
+| **Resume Intelligence** | AI-powered parsing to highlight candidate strengths. | <img src="https://github.com/user-attachments/assets/adabcc4d-b586-47dd-b99b-a205505c2a1c" width="400" /> |
+| **Connection Requests** | Real-time "handshake" networking between students and HR. | <img src="https://github.com/user-attachments/assets/47b3ca22-6f88-447b-a2e5-117d671f987f" width="400" /> |
+| **Platform Modals** | High-performance UI components for seamless interaction. | <img src="https://github.com/user-attachments/assets/facf916f-2678-4826-a46f-c23a8aaf8975" width="400" /> |
 
 The platform helps students:
 - Identify weak topics
