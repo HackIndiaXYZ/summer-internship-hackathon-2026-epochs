@@ -5,7 +5,7 @@ Hackathon team repository for EPOCHS - [hackindia-team:summer-internship-hackath
 
 SkillBridge is an advanced, enterprise-grade full-stack adaptive study intelligence and corporate recruitment platform. Designed with high-performance aesthetics, it provides students with AI-generated study paths, personalized quizzes, and portfolio indexing. Simultaneously, it empowers corporate recruiters with dynamic candidate search rosters, AI-powered resume analyzers, and real-time handshake connection requests.
 
-##Website
+## Website link
 [Live Demo](https://skillbridge-uoag.onrender.com/)
 ## 🎥 Video Demo
 
