@@ -125,7 +125,7 @@ SkillBridge AI solves these challenges by providing:
 ---
 ---
 
-##Architecture 
+## Architecture 
 <img width="1536" height="1024" alt="WhatsApp Image 2026-05-13 at 9 07 49 PM" src="https://github.com/user-attachments/assets/1cf65f71-bbb8-4f4b-8537-151d96f8483f" />
 
 ## Repository Structure
